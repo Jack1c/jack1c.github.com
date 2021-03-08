@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0708fea-d2fa-42b6-9564-f5d521b0e9dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/Go/2021-03-08-数组与slice.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Go/2019-12-27-channel.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/Go/2019-12-27-channel.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/Go/2021-03-08-数组与slice.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/Go/2021-03-08-数组与slice.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +130,7 @@
       <workItem from="1562954687242" duration="2308000" />
       <workItem from="1566238717160" duration="42000" />
       <workItem from="1577376898803" duration="1548000" />
-      <workItem from="1615207660816" duration="584000" />
+      <workItem from="1615207660816" duration="1059000" />
     </task>
     <task id="LOCAL-00001" summary="修改图片">
       <created>1577377422338</created>
@@ -162,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577378101042</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="go channel">
+      <created>1615208262542</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615208262542</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
