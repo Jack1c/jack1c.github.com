@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0708fea-d2fa-42b6-9564-f5d521b0e9dc" name="Default Changelist" comment="">
+    <list default="true" id="b0708fea-d2fa-42b6-9564-f5d521b0e9dc" name="Default Changelist" comment="delete all">
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Go/2021-03-08-数组与slice.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/Go/2021-03-08-数组与slice.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,6 +134,7 @@
       <workItem from="1566238717160" duration="42000" />
       <workItem from="1577376898803" duration="1548000" />
       <workItem from="1615207660816" duration="1831000" />
+      <workItem from="1619873102296" duration="329000" />
     </task>
     <task id="LOCAL-00001" summary="修改图片">
       <created>1577377422338</created>
@@ -190,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615209404299</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="delete all">
+      <created>1619873146320</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1619873146320</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +223,8 @@
     </ignored-roots>
     <MESSAGE value="修改图片" />
     <MESSAGE value="go channel" />
-    <option name="LAST_COMMIT_MESSAGE" value="go channel" />
+    <MESSAGE value="delete all" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete all" />
   </component>
   <component name="masterDetails">
     <states>
